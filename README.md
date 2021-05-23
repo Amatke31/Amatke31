@@ -1,16 +1,22 @@
-### Hi there 👋
+# 📕READ ME
 
-<!--
-**Amatke31/Amatke31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there👋. I'm in the ninth grade, like coding and gaming(MC?). You can call me Amatke31.
 
-Here are some ideas to get you started:
+I come from Wuhan, Hubei Province
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'am learning JavsScript, Python, Lua and C.
+
+These are my projects, if you like, please star it, qwqwqwqwqwqwqwqwqwqwq.
+
+I'm developing a music creation sharing platform -- [Nexmamic](https://music.maftert.com)
+
+|Name|Link|Language|Description|
+|-|-|-|-|
+|vue-mamicplayer|[🔗](https://github.com/Nexmamic/vue-mamicplayer)|JavaScript|Exquisite Audio Player for Nexmamic|
+|wdgX|[🔗](https://github.com/Amatke31/wdgX)|JavaScript|Static website directory generation(rubbishrubbish)|
+
+and some website
+
+[Countdown to senior high school entrance examination in Wuhan, China](https://amatke31.github.io/time/hsee)
+
+[Wuhaneduyun mirrors](https://amatke31.github.io/mirror)
