@@ -13,7 +13,6 @@ I'm developing a music creation sharing platform -- [Nexmamic](https://music.maf
 |Name|Link|Language|Description|
 |-|-|-|-|
 |vue-mamicplayer|[🔗](https://github.com/Nexmamic/vue-mamicplayer)|JavaScript|Exquisite Audio Player for Nexmamic|
-|wdgX|[🔗](https://github.com/Amatke31/wdgX)|JavaScript|Static website directory generation(rubbishrubbish)|
 
 and some website
 
