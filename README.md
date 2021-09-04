@@ -8,14 +8,9 @@ I'am learning JavsScript, Python, Lua and C.
 
 These are my projects, if you like, please star it, qwqwqwqwqwqwqwqwqwqwq.
 
-I'm developing a music creation sharing platform -- [Nexmamic](https://music.maftert.com)
+I'm developing a music creation sharing platform -- [Nexmamic](https://nexmamic.com)
 
 |Name|Link|Language|Description|
 |-|-|-|-|
 |vue-mamicplayer|[🔗](https://github.com/Nexmamic/vue-mamicplayer)|JavaScript|Exquisite Audio Player for Nexmamic|
 
-and some website
-
-[Countdown to senior high school entrance examination in Wuhan, China](https://amatke31.github.io/time/hsee)
-
-[Wuhaneduyun mirrors](https://amatke31.github.io/mirror)
