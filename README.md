@@ -7,5 +7,5 @@
 |Name|Link|Language|Description|
 |-|-|-|-|
 |vue-mamicplayer|[🔗](https://github.com/Nexmamic/vue-mamicplayer)|JavaScript|Nexmamic的悬浮播放器|
-|40code-tool|[🔗](https://github.com/Amatke31/40code-tool)|JavaScript|超棒的40code辅助工具！|
+|NexWebDesigner|[🔗](https://gitee.com/amatke31/40code-tool)|JavaScript|超级牛逼的网页设计工具|
 
