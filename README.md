@@ -1,11 +1,13 @@
-# 📕READ ME
+# About ME
 
-我是Amatke31，一个湖北武汉的高中学生
+I'm Amatke31, I am a high school student in Wuhan, Hubei.
 
-我目前主要使用JavaScript，偶尔也会用用python
+I mainly focused on the Pisdeo project, this is a website editor.  
+If I have some time, I will update my player
 
 |Name|Link|Language|Description|
 |-|-|-|-|
-|vue-mamicplayer|[🔗](https://github.com/Nexmamic/vue-mamicplayer)|JavaScript|Nexmamic的悬浮播放器|
-|NexWebDesigner|[🔗](https://gitee.com/amatke31/nexwebdesigner)|JavaScript|超级牛逼的网页设计工具|
+|Pisdeo|[🔗](https://github.com/amatke31/pisdeo)|JavaScript|A powerful website editor|
+|vue-mamicplayer|[🔗](https://github.com/Nexmamic/vue-mamicplayer)|JavaScript|A exquisite music player|
+
 
